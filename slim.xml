@@ -422,6 +422,6 @@
 
   <!-- CyanogenMod ffmpeg -->
   <project path="external/ffmpeg" name="SlimRoms/android_external_ffmpeg" remote="github" revision="kk4.4" />
-  <project path="external/stagefright-plugins" name="SlimRoms/android_external_stagefright-plugins" remote="github" revision="kk4.4" />
+  <project path="external/stagefright-plugins" name="non1979/slimkat_android_external_stagefright-plugins" remote="github" revision="kk4.4" />
 
 </manifest>

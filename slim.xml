@@ -12,6 +12,12 @@
            remote="aosp"
            sync-j="4" />
 
+  <project name="non1979/slimkat_device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="kk4.4" />
+  <project name="non1979/slimkat_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="kk4.4" />
+  <project name="non1979/slimkat_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="kk4.4" />
+  <project name="non1979/slimkat_hardware_samsung" path="hardware/samsung" remote="github" revision="kk4.4" />
+  <project name="non1979/slimkat_proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="kk4.4" />
+
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="SlimRoms/android_art" remote="github" revision="kk4.4"  />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />

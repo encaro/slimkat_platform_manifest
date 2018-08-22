@@ -19,7 +19,7 @@
           fetch = "https://bitbucket.org/" />
     
   <!-- Patched SlimRoms Repos -->
-  <project path="build" name="non1979/slimkat_android_build" remote="github" revision="kk4.4"  >
+  <project path="build" name="encaro/slimkat_android_build" remote="github" revision="kk4.4"  >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -39,11 +39,11 @@
   <project path="external/sepolicy" name="android_external_sepolicy" remote="slimromssecurity" />
   <project path="external/skia" name="android_external_skia" remote="slimromssecurity" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="slimromssecurity" />
-  <project path="frameworks/av" name="non1979/slimkat_frameworks_av" remote="github" revision="kk4.4" />
-  <project path="frameworks/base" name="non1979/slimkat_frameworks_base" remote="github" revision="kk4.4" />
-  <project path="frameworks/native" name="non1979/slimkat_frameworks_native" remote="github" revision="kk4.4" />
+  <project path="frameworks/av" name="encaro/slimkat_frameworks_av" remote="github" revision="kk4.4" />
+  <project path="frameworks/base" name="encaro/slimkat_frameworks_base" remote="github" revision="kk4.4" />
+  <project path="frameworks/native" name="encaro/slimkat_frameworks_native" remote="github" revision="kk4.4" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="slimromssecurity" />
-  <project path="hardware/libhardware" name="non1979/slimkat_hardware_libhardware" remote="github" revision="kk4.4" />
+  <project path="hardware/libhardware" name="encaro/slimkat_hardware_libhardware" remote="github" revision="kk4.4" />
   <project path="hardware/ril" name="hardware_ril" remote="slimromssecurity" />
   <project path="libcore" name="android_libcore" remote="slimromssecurity" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="slimromssecurity" />
@@ -54,8 +54,8 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="slimromssecurity" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="slimromssecurity" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="slimromssecurity" />
-  <project path="system/core" name="non1979/slimkat_system_core" remote="github" revision="kk4.4" />
-  <project path="vendor/slim" name="non1979/slimkat_vendor_slim" remote="github" revision="kk4.4" />
+  <project path="system/core" name="encaro/slimkat_system_core" remote="github" revision="kk4.4" />
+  <project path="vendor/slim" name="encaro/slimkat_vendor_slim" remote="github" revision="kk4.4" />
 
   <project path="platform_manifest" name="platform_manifest" remote="slimromssecurity" />
 

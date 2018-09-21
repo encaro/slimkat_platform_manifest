@@ -45,6 +45,7 @@
   <project path="frameworks/native" name="encaro/slimkat_frameworks_native" remote="github" revision="kk4.4" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="slimromssecurity" />
   <project path="hardware/libhardware" name="encaro/slimkat_hardware_libhardware" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/media" name="SlimRoms/hardware_qcom_media" remote="slimromssecurity" /> 
   <project path="hardware/ril" name="hardware_ril" remote="slimromssecurity" />
   <project path="libcore" name="android_libcore" remote="slimromssecurity" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="slimromssecurity" />

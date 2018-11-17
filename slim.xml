@@ -29,7 +29,7 @@
            path="external/chromium-prebuilt"
            remote="github" revision="master" clone-depth="1" />
   
-  <project name="matthewdalex/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="bitbucket" revision="master" />
+  <project name="matthewdalex/arm-eabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" remote="bitbucket" revision="master" />
   <project name="matthewdalex/arm-eabi-6.x" path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.x" remote="bitbucket" revision="master" />
    
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />

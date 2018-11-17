@@ -33,7 +33,7 @@
   <project name="matthewdalex/arm-eabi-6.x" path="prebuilt/linux-x86/toolchain/arm-eabi-6.x" remote="bitbucket" revision="master" />
    
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="encaro/android_art" remote="github" revision="kk4.4"  />
+  <project path="art" name="encaro/slimkat_android_art" remote="github" revision="kk4.4"  />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="cts" name="platform/cts" groups="cts" />

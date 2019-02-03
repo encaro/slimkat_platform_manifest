@@ -29,7 +29,8 @@
   <project name="MSe1969/KitKat_Bromite-prebuilt" 
            path="external/bromite-prebuilt" 
            clone-depth="1" remote="github" revision="master" />
-  
+  <project name="MSe1969/android_vendor_extra" path="vendor/extra" remote="github" revision="kk4.4"  />
+
   <project name="matthewdalex/arm-eabi-4.9" path="prebuilt/linux-x86/toolchain/arm-eabi-4.9" remote="bitbucket" revision="master" />
   <project name="matthewdalex/arm-eabi-6.x" path="prebuilt/linux-x86/toolchain/arm-eabi-6.x" remote="bitbucket" revision="master" />
    
